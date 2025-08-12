@@ -7,7 +7,7 @@
   </a>
 </div>
 
-[Snake animation](https://github.com/leticia-ssantos/leticia-ssantos/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/leticia-ssantos/leticia-ssantos/blob/output/github-contribution-grid-snake.svg)
 
 
 
