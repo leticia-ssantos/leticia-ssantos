@@ -1,7 +1,11 @@
-## Olá, eu sou a Letícia S Santos! 👋
+## Olá, eu sou a Letícia S. Santos! 👋
 
-💻 **Desenvolvedora** apaixonada por criar soluções criativas  
-🚀 Sempre aprendendo e explorando novas tecnologias
+
+💻 Engenheira Eletricista & Desenvolvedora  
+⚡ Especialista em energia solar e projetos fotovoltaicos, com vivência prática em instalação, homologação, pré e pós-vendas  
+🎮 Criadora de soluções para simuladores automotivos com comunicação gRPC e plugins personalizados  
+🛠 Proficiente em C#, ProtoBuf, JSON, .NET Framework, NAudio e integração com dispositivos físicos  
+🚀 Sempre explorando novas tecnologias e desafios no desenvolvimento de software e engenharia elétrica
 
 ---
 
